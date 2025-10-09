@@ -101,7 +101,7 @@ Accuracy			85.20%
 📚 Dataset Information
 
 # Dataset Used: Heart Failure Clinical Records Dataset
-# 📦 Source: Kaggle Dataset Link
+📦 Source: Kaggle Dataset Link
 
 This dataset contains medical records of patients with heart failure, used to predict the DEATH_EVENT variable (binary classification).
 
