@@ -116,4 +116,7 @@ Deploy app on Streamlit Cloud / Hugging Face Spaces / Heroku
 
 Add confusion matrix and ROC-AUC plots
 
+<img width="1900" height="927" alt="Screenshot (177)" src="https://github.com/user-attachments/assets/572ce677-d895-4796-aaea-4466faa954bd" />
+
+
 
