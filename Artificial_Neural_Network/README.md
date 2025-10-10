@@ -103,3 +103,7 @@ After training, the app shows:
 * **GPU / TensorFlow-related errors:** Ensure TensorFlow is installed correctly for your platform. If you have a GPU, install `tensorflow` with GPU support and the necessary drivers (CUDA/cuDNN) matching your TensorFlow version.
 * **Slow training:** Reduce `epochs`, lower model size, or run on a machine with GPU.
 
+
+  <img width="1919" height="928" alt="Screenshot (183)" src="https://github.com/user-attachments/assets/0040c083-b025-4551-baed-0e6f41bb005b" />
+
+
