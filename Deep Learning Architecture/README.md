@@ -7,7 +7,7 @@ An interactive Streamlit-based dashboard that simulates and analyzes the perform
 
 This project answers a key question in AI and Computer Vision research:
 
-# 🧠 “Which architecture should I choose for my project — VGG16, VGG19, or ResNet50?”
+🧠 “Which architecture should I choose for my project — VGG16, VGG19, or ResNet50?”
 
 To help users and learners make informed decisions, this app provides a data-driven simulation and visual comparison of these architectures with an intelligent recommendation system that suggests the optimal model based on speed, accuracy, and task complexity.
 
