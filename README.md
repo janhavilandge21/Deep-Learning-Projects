@@ -50,19 +50,9 @@ Most datasets are:
 
 ---
 
-## 🧠 Deep Learning Workflow
-
-```mermaid
-graph TD;
-    A[Dataset Loading] --> B[Data Preprocessing];
-    B --> C[Data Augmentation];
-    C --> D[Model Architecture Design];
-    D --> E[Model Training & Optimization];
-    E --> F[Evaluation];
-    F --> G[Model Saving & Deployment];
 
 
-⚙️ Installation
+# ⚙️ Installation
 
 ▶️ Usage
 
@@ -75,7 +65,7 @@ Or run training script:
 
 python train.py
 
-📈 Results & Insights
+# 📈 Results & Insights
 
 Common evaluation metrics used:
 
@@ -104,7 +94,7 @@ Feature Maps of CNN Layers
 
 Attention Weights (for NLP models)
 
-🚀 Deployment
+# 🚀 Deployment
 
 Some models are deployed using:
 
@@ -118,7 +108,7 @@ Docker example:
 docker build -t dl-app .
 docker run -p 8501:8501 dl-app
 
-🛠 Technologies Used
+# 🛠 Technologies Used
 Category	Libraries / Tools
 Core Language	Python 🐍
 Deep Learning	TensorFlow, Keras, PyTorch
