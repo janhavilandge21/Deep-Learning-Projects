@@ -81,9 +81,12 @@ Loss & Accuracy training curves
 
 Deep Learning models in this repo typically achieve:
 
-Model Type	Performance
+# Model Type	Performance
+
 CNN for Image Classification	High Accuracy (85–97%)
+
 RNN/LSTM for NLP Tasks	Strong sequence understanding
+
 Transfer Learning Models	Faster convergence & higher stability
 
 Visualization examples:
@@ -100,31 +103,31 @@ Some models are deployed using:
 
 Method	Status
 Streamlit Web App UI	✅ Supported
+
 Flask / FastAPI API	✅ Supported
+
 Docker Image Packaging	✅ Supported
 
 Docker example:
 
 docker build -t dl-app .
+
 docker run -p 8501:8501 dl-app
 
 # 🛠 Technologies Used
+
 Category	Libraries / Tools
+
 Core Language	Python 🐍
+
 Deep Learning	TensorFlow, Keras, PyTorch
+
 Data Processing	Pandas, NumPy
+
 Visualization	Matplotlib, Seaborn
+
 Deployment	Streamlit, Flask, Docker
 
-# 🗂 Project Structure
-📦 deep-learning-projects
-│
-├── data/               # Datasets
-├── models/             # Saved Trained Models
-├── notebooks/          # Jupyter Notebooks for each project
-├── src/                # Model scripts and utilities
-├── app.py              # Deployment application script
-├── requirements.txt    # Dependencies
-└── README.md           # Documentation
+
 
 
